@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: RecluteRisas
+## Author: Algafix
+## Version: 0.1
+## SavedVariables: Position
+
+main.lua
